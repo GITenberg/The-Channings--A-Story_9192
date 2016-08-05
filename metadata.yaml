@@ -1,0 +1,30 @@
+_repo: The-Channings--A-Story_9192
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wood, Henry, Mrs.
+    aliases:
+    - Price, Ellen
+    - Ludlow, Johnny
+    - Wood, Ellen Price
+    - Wood, Mrs. Henry
+    birthdate: 1814
+    deathdate: 1887
+    gutenberg_agent_id: '1177'
+    url: http://www.gutenberg.org/2009/agents/1177
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Wood_%28author%29
+description: ''
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9192'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction'
+- GITenberg
+title: 'The Channings: A Story'
+url: http://www.gutenberg.org/ebooks/9192
